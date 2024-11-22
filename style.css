@@ -6,7 +6,7 @@
   font-family: "Roboto", sans-serif;
 }
 .welcome {
-  background-color: rgb(234,197,43,255);
+  background-color: rgb(234, 197, 43, 255);
   padding: 1rem 0;
 }
 .welcome p {
@@ -25,11 +25,11 @@ nav {
   color: white;
 }
 .live p {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .menu {
-  margin-left: -15rem;;
+  margin-left: -15rem;
 }
 .manu a {
   padding: 1.5rem;
@@ -49,64 +49,62 @@ nav {
   font-weight: bold;
 }
 .a1 {
-    color: orange;
+  color: orange;
 }
 .a2 {
-    color: white;
-
+  color: white;
 }
 .container {
-    background-image: url(img.jpg);
-    height: 50rem;
-    background-size: cover;
+  background-image: url(img.jpg);
+  height: 50rem;
+  background-size: cover;
 }
 .main {
-    height: 26rem;
+  height: 26rem;
 }
 .night {
-    display: flex;
-    justify-content: center;
-    margin-top: 12rem;
-    color: azure;
+  display: flex;
+  justify-content: center;
+  margin-top: 12rem;
+  color: azure;
 }
 .btn-let {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
 }
 .btn-let button {
-    padding: 1rem;
-    border-radius: 20px;
-    background-color: orange;
-    color: black;
-    font-weight: bold;
-    border: none;
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: orange;
+  color: black;
+  font-weight: bold;
+  border: none;
 }
 footer {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 footer p {
-    color: azure;
-    font-weight: bold;
+  color: azure;
+  font-weight: bold;
 }
 .Share {
-    margin-top: -0.7rem;
-    display: flex;
+  margin-top: -0.7rem;
+  display: flex;
 }
 .Share p {
-    margin-top: 0.8rem;
+  margin-top: 0.8rem;
 }
 .icon {
-    display: flex;
-    
+  display: flex;
 }
 .icon i {
-    padding: 0.5rem;
+  padding: 0.5rem;
 }
 .icon div {
-    margin-top: 0.5rem;
-    background-color: orange;
-    border-radius: 100%;
-    cursor: pointer;
+  margin-top: 0.5rem;
+  background-color: orange;
+  border-radius: 100%;
+  cursor: pointer;
 }
