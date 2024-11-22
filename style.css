@@ -6,7 +6,7 @@
   font-family: "Roboto", sans-serif;
 }
 .welcome {
-  background-color: rgb(234, 197, 43, 255);
+  background-color: rgb(243, 156, 18);
   padding: 1rem 0;
 }
 .welcome p {
@@ -43,20 +43,20 @@ nav {
   padding: 0.5rem;
   border: none;
   border-radius: 20px;
-  background-color: orange;
+  background-color: rgb(243, 156, 18); 
   color: black;
   margin-top: -1rem;
   font-weight: bold;
 }
 .a1 {
-  color: orange;
+  color: rgb(243, 156, 18);
 }
 .a2 {
   color: white;
 }
 .container {
-  background-image: url(img.jpg);
-  height: 50rem;
+  background-image: url(https://wallpapercat.com/w/full/c/a/2/1198782-3840x2160-desktop-4k-studio-ghibli-wallpaper-image.jpg);
+  height: 48rem;
   background-size: cover;
 }
 .main {
@@ -65,7 +65,7 @@ nav {
 .night {
   display: flex;
   justify-content: center;
-  margin-top: 12rem;
+  margin-top: 15rem;
   color: azure;
 }
 .btn-let {
@@ -76,7 +76,7 @@ nav {
 .btn-let button {
   padding: 1rem;
   border-radius: 20px;
-  background-color: orange;
+  background-color: rgb(243, 156, 18);
   color: black;
   font-weight: bold;
   border: none;
@@ -104,7 +104,7 @@ footer p {
 }
 .icon div {
   margin-top: 0.5rem;
-  background-color: orange;
+  background-color: rgb(243, 156, 18);
   border-radius: 100%;
   cursor: pointer;
 }
